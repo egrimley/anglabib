@@ -107,6 +107,11 @@ F: The Children's Newspaper
 E: F. W. Hipsley
 R: IL 31 58
 
+A: Angelow, Maya (1928-)
+T: Brava kaj surprizega vero
+E: George Partlow & Bill Maxey
+S: Tempo 1/96, eld. Kroatia Esperanto-Ligo.
+
 A: Anon
 T: Adiaŭ Glenŝaloĥ
 O: Farewell to Glenshalloch
@@ -136,13 +141,6 @@ A: Anon
 T: Aleksandro Granda kaj la rabisto
 E: W. Phillimore
 R: IL 29 37
-
-A: Anon
-T: Alestu, fidelaj ...
-O: Oh come, all ye faithful
-L: Himnaro Esperanta
-E: M. C. Butler
-R: IL 26 251
 
 A: Anon
 T: Alison'
@@ -300,6 +298,14 @@ E: Ŭoago
 R: LR 8 313
 
 A: Anon
+T: Cindrulino
+E: L. Milho
+D: Eldonejo de E.K.
+U: Tours
+J: 190?
+P: 24
+
+A: Anon
 T: Ĉe l' riverbord'
 O: 'Tis down by the riverside
 E: W. Auld
@@ -337,7 +343,7 @@ J: 1961
 
 A: Anon
 T: David la bardo
-O: Dafydd y gareg wen (David of the White Rock)
+O: Dafydd y garreg wen (David of the White Rock)
 E: M. C. Butler
 R: KE 28
 
@@ -805,9 +811,15 @@ R: KMB 48
 
 A: Anon
 T: La adiaŭo de la bardo
-O: Ffarwel y Telnor i'w Enedigol Wlad (The minstrel's adieu to his native land)
+O: Ffarwel y Telynor i'w Enedigol Wlad (The minstrel's adieu to his native land)
 E: M. C. Butler
 R: KE 27
+
+A: Anon
+T: La akrobato de nia Sinjorino: Milcentjara legeno
+E: Edward S. Payson
+P: 19
+N: el angla traduko de Pastro Wicksteed; originalo estis franca
 
 A: Anon
 T: La alaŭda ĉieleniro
@@ -846,7 +858,7 @@ N: Originalo aperis en Labour Woman en decembro 1925.
 
 A: Anon
 T: La bosko fraksena
-O: Llwyn On (The ash grove)
+O: Llwyn Onn (The ash grove)
 E: William Harvey
 R: KE 27; BEAK 33
 N: C. Hughes; John Oxenford
@@ -930,7 +942,7 @@ R: KE 28
 
 A: Anon
 T: La filino de Megan
-O: Merdh Megan (Megan's fair daughter)
+O: Merch Megan (Megan's fair daughter)
 E: William Harvey
 R: KE 28
 
@@ -1372,6 +1384,13 @@ R: AE VII-4 (1910)
 N: Noveleto. Mankas informoj pri la originalo.
 
 A: Anon
+T: Libro de Komuna Preĝo
+O: Book of Common Prayer
+D: Eklezia Esperantista Ligo
+U: Huddersfield
+J: 1910-1920
+
+A: Anon
 T: London' brulas
 E: Anon
 R: BEAK 11
@@ -1624,6 +1643,14 @@ E: Ŭoago
 R: LR 8 561
 
 A: Anon
+T: Pourquoi Pas: Magio. Teatraĵo por la infanoj
+E: Kolektivo
+D: BEA
+U: London
+J: 1920
+P: 32
+
+A: Anon
 T: Prediko
 E: Richard Legge
 R: BE 08 5; BE 87 285
@@ -1754,7 +1781,7 @@ R: Ron
 
 A: Anon
 T: Sopire ploris junulin'
-O: Erddigan Hun Gwenlliam (Gwenllian's repose)
+O: Erddigan Hun Gwenllian (Gwenllian's repose)
 E: M. C. Butler
 R: KE 32
 
@@ -1933,6 +1960,12 @@ O: First law
 E: W. Auld
 R: HV 76 2 7; LF 136 65; Sf9
 
+A: Asimov, Isaac (1920-)
+T: La unua leĝo
+O: First law
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 193
+
 A: Aubrey, John (1626-1697)
 T: Lancelot Andrewes
 E: Alec Venture
@@ -1988,7 +2021,7 @@ O: Peter
 E: W. Auld
 R: NP 70 31
 
-A: Austen, Jane
+A: Austen, Jane (1775-1817)
 T: Ĉapitroj 1-2
 L: Fiero kaj antaŭjuĝo
 F: Pride and Prejudice
@@ -2053,13 +2086,13 @@ T: La tera sano
 E: John Leslie
 R: RE 57 148
 
-A: Ballantyne, James
+A: Ballantyne, James (1772-1833)
 T: La sennoma knabino
 O: The nameless lassie
 E: A. B. Deans
 R: KE 48
 
-A: Ballantyne, R. M.
+A: Ballantyne, R. M. (1825-1894)
 T: La hundo Kruso
 E: J. M. Inman
 U: Rickmansworth
@@ -2112,12 +2145,6 @@ E: William Harvey
 F: A window in Thrums
 R: Lit 23 26
 
-A: Barrow, George (1803-1881)
-T: La unua rajdo
-L: Lavengro
-E: W. Severn
-R: IL 28 234, 254
-
 A: Barrow, P. J.
 T: Rozburĝoneto
 O: Rose in the bud
@@ -2138,7 +2165,7 @@ J: 1917
 P: 44
 N: Ĉu unu aŭ du eldonoj?
 
-A: Bates, H. E. (1905-)
+A: Bates, H. E. (1905-1974)
 T: Senkulpeco
 E: Alec Venture
 R: LM 36 80
@@ -2176,7 +2203,7 @@ F: The Story of Anzac
 E: R. L. Harry
 R: AŭsA 141
 
-A: Beckett, Samuel (1906-)
+A: Beckett, Samuel (1906-1989)
 T: Huriskopo
 E: Kris Long
 R: LKK 39 10
@@ -2228,6 +2255,18 @@ U: Londono
 J: 1919
 P: 124
 N: Contents: La matadoro de la kvin urboj; Mimi; La reganta iluzio; La letero kaj la mensogo; Jok-Aventura; La heroeco de Tomaso Chadwick; Sub la horloĝo; Tri epizodoj en la vivo de Sinjoro Cowlishaw, dentisto.
+
+A: Bennett, G. I.
+T: La vivkoncepto de Albert Einstein
+F: The Freethinker
+E: W. Auld
+R: NP 55/5
+
+A: Bennett, G. I.
+T: La vivkoncepto de Albert Einstein
+F: The Freethinker
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 230
 
 A: Bernard, W. B.
 T: Lia lasta ŝanco
@@ -2300,37 +2339,37 @@ O: Bird of love divine
 E: T. R. Butler
 R: KE 52
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Brazilo, 1 januaro 1502
 E: Kris Long
 R: F 43 14
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Epifani-mateno
 E: Kris Long
 R: F 31 35
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Frosta printempo
 E: Kris Long
 R: F 46 39
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Miraklo matenmanĝe
 E: Kris Long
 R: F 29 36
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Pri vojaĝoj
 E: Kris Long
 R: F 42 42
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Sestino
 E: Kris Long
 R: F 44 12
 
-A: Bishop, Elizabeth (1911-)
+A: Bishop, Elizabeth (1911-1979)
 T: Sub la fenestro: Ouro Preto
 E: Kris Long
 R: F 51 27
@@ -2479,6 +2518,12 @@ U: Rickmansworth
 J: 1947
 P: 38
 
+A: Borrow, George Henry (1803-1881)
+T: La unua rajdo
+L: Lavengro
+E: W. Severn
+R: IL 28 234, 254
+
 A: Borthwick, Jane
 T: Kaj ĉu la tempo venas?
 E: M. C. Butler
@@ -2552,6 +2597,12 @@ A: Bracken, Thomas
 T: Ne komprenate
 E: Brendon Clark
 R: HdE 48 7; KLP 125
+
+A: Bradbury, Ray
+T: La sono de la tondro
+O: A sound of thunder
+F: The Golden Apples of the Sun (1953)
+S: Orbito nula 1, eld. Grupo Nifo, Santander, 1994, p. 7-24.
 
 A: Brain, C. Lewton
 T: La prezo de hundino
@@ -2634,7 +2685,7 @@ O: A passer-by
 E: L. N. M. Newell
 R: AA2 124
 
-A: Bright, John
+A: Bright, John (1811-1889)
 T: (Citaĵo sentitola)
 E: Anon
 R: IL 27 22
@@ -3551,7 +3602,7 @@ R: FK 314
 
 A: Byron, Lord (1788-1824)
 T: Parizina
-E: Venencio Da Silva
+E: Venancio Da Silva
 U: Paris
 J: 1912
 P: 21
@@ -3586,6 +3637,12 @@ L: Jurgen
 T: Ĉapitroj 34-35
 E: W. Auld
 R: LSS 61 82
+
+A: Cabell, James Branch
+L: Jurgen
+T: Ĉapitroj 34-35
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 144
 
 A: Calder, Ritchie
 T: Homoj kontraŭ la dezerto
@@ -3775,6 +3832,14 @@ J: 1910
 P: 132
 
 A: Carroll, Lewis (1832-1898)
+T: Alico en Mirlando
+O: Alice in Wonderland
+E: Donald Broadribb
+D: Bookleaf Publishing
+U: Beverley
+J: 1996
+
+A: Carroll, Lewis (1832-1898)
 T: Babeĉado
 O: Jabberwocky
 E: Jim Cool
@@ -3786,6 +3851,18 @@ O: A mad tea-party
 L: La aventuroj de Alica en Mirlando
 E: W. Auld
 R: BE 84 350; AA2 263
+
+A: Carroll, Lewis (1832-1898)
+T: Ĝaberŭoko
+O: Jabberwocky
+E: Mark Armantout
+R: Sal 96 mar/apr 16
+
+A: Carroll, Lewis (1832-1898)
+T: Ĵargonaĵo
+O: Jabberwocky
+E: Alan Gould
+S: La Verda Proleto, 1996, 401, p. 16.
 
 A: Carroll, Lewis (1832-1898)
 T: La historio de la ŝajnkelidonio
@@ -3954,6 +4031,13 @@ F: What happened in history, chapter 1
 E: W. Auld
 R: NP 69 134; NP 70 18
 
+A: Childe, Gordon (1892-1957)
+T: Arĥeologio kaj historio
+O: Archeology and history
+F: What happened in history, chapter 1
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 204
+
 A: Childers, J. S
 T: La knabo kiun oni vendis por ĉevalo
 E: John T. Holmes
@@ -3964,12 +4048,12 @@ T: Historio de unu horo
 E: Karl Pov
 R: F 14 19
 
-A: Christie, Agatha
+A: Christie, Agatha (1890-1976)
 T: La lampo
 E: Siraisi Sigeo
 S: L' Omnibuso, 1980, 89, p. 15--20.
 
-A: Christie, Agatha
+A: Christie, Agatha (1890-1976)
 T: Murdo en la Orienta Ekspreso
 O: Murder on the Orient Express
 E: Etulo (= C. C. Goldsmith)
@@ -3977,7 +4061,7 @@ U: Rickmansworth
 J: 1937
 P: 183
 
-A: Christie, Agatha
+A: Christie, Agatha (1890-1976)
 T: SOS
 E: Siraisi Sigeo
 S: L' Omnibuso, 1980, 90, p. 13--24.
@@ -4033,6 +4117,12 @@ T: Provizoreco
 O: Transience
 E: W. Auld
 R: F 4 14; Sf1 15
+
+A: Clarke, Arthur C. (1917-)
+T: Provizoreco
+O: Transience
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 187
 
 A: Clarke, Arthur C. (1917-)
 T: Supereco
@@ -4101,10 +4191,20 @@ E: Agnes B. Deans
 R: KE 37
 
 A: Codrescu, Andrei
+T: La malĝojoj de la tradukanto
+E: Ionel Onet
+R: LKK 58 11
+
+A: Codrescu, Andrei
 T: La turisto
 F: Raised by Puppets Only to Be Killed By Research
 E: Ionel Onet
 R: F 160 25
+
+A: Codrescu, Andrei
+T: Stalin
+E: Ionel Onet
+S: Bukureŝta Informilo, aŭtuno 1995, p. 2.
 
 A: Coleridge, Samuel Taylor (1773-1834)
 T: Ankoraŭ ne sentintan la malbonon
@@ -4157,7 +4257,7 @@ O: Ode to Evening
 E: W. Auld & R. Rossetti
 R: AA 167
 
-A: Collinson, W. E.
+A: Collinson, W. E. (1889-)
 T: Ĝeneralaj fonetikaj postuloj de internacia lingvo
 E: Eleno Vinfero
 R: IL 28 229
@@ -4197,11 +4297,25 @@ O: Mate o' mine
 E: J. Peache & K. Stevens
 R: KE 70
 
+A: Cooper, James Fenimore
+T: La sentimulo
+E: Roger Imbert
+D: IKS
+U: Zagreb
+J: 1982
+P: 69
+N: rerakontita per la 450 plej oftaj radikoj
+
 A: Cornwall, Barry
 T: Venu, belfloro!
 O: Dawn, gentle flower
 E: G. P. Cosmetto
 R: KE 83
+
+A: Cortázar, Julio
+T: Post tiaj plezuroj
+E: Ionel Onet
+R: F 146 34
 
 A: Cotton, Charles (1630-1687)
 T: Alis
@@ -4287,25 +4401,25 @@ F: 400.000.000 customers
 E: F. R. Banham
 R: Ron 41 okt
 
-A: Cummings, E. E. (1894-)
+A: Cummings, E. E. (1894-1962)
 T: Amo pli dikas ol forges'
 O: Love is more thicker than forget
 E: Garvan Makaj
 R: ESk 157 25
 
-A: Cummings, E. E. (1894-)
+A: Cummings, E. E. (1894-1962)
 T: kompatu ĉi okupatan monstron, hom(aĉ)aro
 O: pity this busy monster, manunkind
 E: R. P. Nogueira
 R: VV 54
 
-A: Cummings, E. E. (1894-)
+A: Cummings, E. E. (1894-1962)
 T: mia kara olda kaj tiel plu
 O: my sweet old etcetera
 E: R. P. Nogueira
 R: VV 52
 
-A: Cummings, E. E. (1894-)
+A: Cummings, E. E. (1894-1962)
 T: Miŝon havas
 E: A. D. Foote
 R: F 75 8
@@ -4673,7 +4787,7 @@ T: La batalo de Pomverda Valo
 E: Charles Galvin
 R: LS2 15-16
 
-A: Disney, Walt
+A: Disney, Walt (1901-1966)
 T: La gaŭĉo Dipi
 E: Tisek
 U: Buenos Aires
@@ -4918,11 +5032,25 @@ O: Incident in the shop
 E: W. Auld
 R: BE 71 110; Om 33
 
+A: Dunn, Douglas (1942-)
+T: Teri-strato
+E: W. Auld
+D: Fonto
+U: Chapecó
+J: 1995
+P: 62
+
 A: Dunn, Nell (1936-)
 T: Ekskurso kun la knabinoj
 O: Out with the girls
 E: W. Auld
 R: MK 65 103
+
+A: Dunn, Nell (1936-)
+T: Ekskurso kun la knabinoj
+O: Out with the girls
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 170
 
 A: Duranty, Walter
 T: La bonŝanca domo en Leningrado
@@ -4950,7 +5078,7 @@ T: La bulo de argilo
 E: M. J. Gartner
 R: AE VIII-6 (1911)
 
-A: Dylan, Bob
+A: Dylan, Bob (1941-)
 T: Blovas la vent'
 O: Blowing in the wind
 E: W. F. Pilger
@@ -5104,7 +5232,7 @@ T: Killarney
 E: J. Fennall
 R: KE 24
 
-A: Farjeon, Eleanor
+A: Farjeon, Eleanor (1881-1965)
 T: Sinjorino Malone
 E: Marjorie Boulton
 R: BE 90 90
@@ -5278,7 +5406,7 @@ L: Maldormemo posttagmeze
 E: Meva Maron
 R: LKK 73 19
 
-A: Foot, M. R. D.
+A: Foot, M. R. D. (1919-)
 T: La naturo de nacia karaktero
 O: The nature of Character: At national level
 E: W. Auld
@@ -5322,7 +5450,7 @@ F: My Brilliant Career
 E: Fay Koppel
 R: AŭsA 144
 
-A: Freeman, Mary E. Wilkins
+A: Freeman, Mary E. Wilkins (1852-1930)
 T: La koridora dormoĉambro
 E: Charles E. Randall
 R: LR 4 26
@@ -5338,8 +5466,13 @@ T: Hindujaj fabeloj
 E: R. F. Vaughan
 R: EI 41 14; EI 41 58, 94; EI 42 10
 
-A: Frost, Robert (1875-)
-T: The gift outright
+A: Frost, Robert (1874-1963)
+T: La nesekvita vojo
+E: K. Ungar
+S: Meznokto metropola, 1991, p. 67.
+
+A: Frost, Robert (1874-1963)
+O: The gift outright
 E: Anon
 R: AE 61 25
 N: mankas esperanta titolo
@@ -5407,6 +5540,7 @@ E: Gego (= George Gordon)
 D: BEA
 J: 1913
 P: 47
+N: 2-eldono (pligrandigita): London: BEA, 1922
 
 A: Gatty, Margaret
 T: Alegorioj el la naturo
@@ -5667,73 +5801,73 @@ O: The bluebells of Scotland
 E: Janet Caw
 R: KE 40
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Fisonĝe
 E: Kris Long
 R: F 82 12
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 L: La Dia Klaŭdio
 F: Claudius the God
 E: J. C. Wells
 R: F 75 5
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: La muŝo
 E: K. Long
 R: F 64 4
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: La nodo en la tuko
 E: S. A.
 R: SR 98 27
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: La persa versio
 O: The Persian version
 E: W. Auld
 R: B2 60; Om 48
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: La poetoj
 O: The poets
 E: W. Auld
 R: Om 48
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Malrekta flugado
 O: Flying crooked
 E: W. Auld
 R: Om 47
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Ogroj kaj pigmeoj
 O: Ogres and pygmies
 E: W. Auld
 R: Om 46
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Ogroj kaj pigmeoj
 O: Ogres and pygmies
 E: W. Auld
 S: La Infana Raso, 2-a eldono, p. 117.
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Pajlero
 E: Kris Long
 R: F 64 4
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Pominsulo
 E: Kris Long
 R: F 82 12
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Rea
 E: Kris Long
 R: F 82 13
 
-A: Graves, Robert (1895-)
+A: Graves, Robert (1895-1985)
 T: Vekite vintromeze
 E: Kris Long
 R: F 82 13
@@ -5791,7 +5925,7 @@ T: Valo de Seaton
 E: Alec Mollison
 R: ESk 108 12
 
-A: Gropius, Walter
+A: Gropius, Walter (1883-1969)
 T: Zen-isma influo sur japana arĥitekturo
 E: Redakcio
 S: Oomoto, 1956, p70.
@@ -5965,7 +6099,7 @@ R: F 82 13; AA2 117
 A: Hardy, Thomas (1840-1928)
 T: En la ombroj
 O: In tenebris
-E: E. T. Grimley Evans
+E: Edmund Grimley Evans
 R: BE 91 128
 
 A: Hardy, Thomas (1840-1928)
@@ -6060,6 +6194,14 @@ U: Irlando
 J: 1984
 P: 15
 
+A: Harrison, Harry (1925-)
+T: Naskiĝo de la Rustimuna Ŝtalrato
+O: A Stainless Steel Rat is Born
+E: Kolektivo
+U: Jekaterinburg
+J: 1996
+P: 222
+
 A: Harte, Bret
 T: La forpelitoj de Poker Flat
 E: Charles E. Randall
@@ -6108,6 +6250,12 @@ R: AE IX-2 (1911)
 N: Novelo.
 
 A: Hay, George Campbell (= Deòrsa Mac Iain Deòrsa) (1915-1984)
+T: Atman
+E: Garbhan MacAoidh
+R: ESk 169 12
+N: gaela
+
+A: Hay, George Campbell (= Deòrsa Mac Iain Deòrsa) (1915-1984)
 T: Malfeliĉo de Eŭropo
 O: Truaighe na h-eorpa
 E: Girvan MacKay
@@ -6141,7 +6289,7 @@ F: Stray leaves from strange literature
 E: P. J. Cameron
 R: BE 09 144
 
-A: Heber, Reginald
+A: Heber, Reginald (1783-1826)
 T: Sankta, sankta, sankta
 O: Holy, holy, holy (A&M 160)
 E: A. L. Curry
@@ -6523,7 +6671,7 @@ O: X-ray Photograph
 E: Ralph Harry & W. Auld
 R: AŭsA 228
 
-A: Hope Hay 
+A: Hope Hay
 T: Kvakeroj kaj la Homa Familio
 E: A. Jessie Saunders
 D: Kvakera Esperantista Societo
@@ -6665,6 +6813,12 @@ O: Could man be drunk for ever
 E: W. Auld
 R: NP 74 22; Om 57; AA2 132
 
+A: Housman, Albert Edward (1859-1936)
+T: Printemp': nun venu frue
+L: Bubo el Ŝropŝiro
+E: A. D. Foote
+R: ESk 168
+
 A: How, W. Walsham
 T: Brilas sun' somera
 E: L. A. Long
@@ -6703,7 +6857,13 @@ T: La ganto kaj la leonoj
 E: L. B.
 R: IL 24 137
 
-A: Huxley, T. H.
+A: Hunt, James Henry Leigh (1784-1859)
+O: Rondeau
+T: Jenny kisis min ...
+E: Edmund Grimley Evans
+R: BE 96 48
+
+A: Huxley, T. H. (1894-1963)
 T: Komparaĵo
 F: On Education
 E: Anon
@@ -6826,6 +6986,13 @@ E: J. W. Leslie
 R: NLR 2 235
 
 A: Jerome, Jerome K. (1860-1927)
+T: Barbra. Unuakta teatraĵo
+E: Flora Hardcastle
+D: BEA
+U: London
+P: 24
+
+A: Jerome, Jerome K. (1860-1927)
 T: Ne sekvu konsilojn!
 E: M. M.
 S: La Espero (sveda), 1978, 12, p. 64.
@@ -6871,12 +7038,13 @@ E: Arthur Gray
 R: BE 06ald 79
 N: artikolo speciale verkita por "The British Esperantist"
 
-A: Johnson, Linton Kwezi
-T: Premo, Pulso, kaj Sango!
+A: Johnson, Linton Kwesi
+T: Premo Pulso, kaj Sango
+O: Dread Beat an Blood
 E: Mark Pallen
-R: Sal 86 sep/dec 9-10
+R: Sal 81 mar/apr 5-6; Sal 86 sep/dec 9-10
 
-A: Johnson, Lyndon Baines
+A: Johnson, Lyndon Baines (1908-1973)
 T: La inaŭguracia parolado ...
 E: E. J. Lieberman
 R: NAER 65 jan 11
@@ -7000,6 +7168,12 @@ E: John Francis
 R: LF 68 6
 
 A: Keats, John (1795-1821)
+T: Kiam mi timas, ke mi esti ĉesos
+O: When I have fears that I may cease to be
+E: István Ertl
+S: Opus Nigrum, 1987/2, p. 17.
+
+A: Keats, John (1795-1821)
 T: La belle Dame sans merci
 E: K. Kalocsay
 R: EB 162; TS 411
@@ -7061,7 +7235,7 @@ T: Pri "Odoraĉo", la Lunrato
 E: R. F. Vaughan
 R: EI 43 45
 
-A: Keith, Sir Arthur
+A: Keith, Sir Arthur (1866-1955)
 T: Pri la origino de l' homo
 E: Prof. Wm. Brown & F. R. A. McCormick
 U: Londono
@@ -7184,6 +7358,13 @@ E: Katelina Halo
 R: F 162 24
 
 A: Kipling, Rudyard (1865-1936)
+T: La fratoi de Mowgli (Mougli)
+O: Mowgli's brothers
+E: Jon Walter Yung
+S: Yes! Sidiju kai taipu! (Bulteno de AEIOU)
+N: felietone, ĉ. 1995
+
+A: Kipling, Rudyard (1865-1936)
 T: La fratoj de Maŭgli
 O: Mowgli's brothers
 E: George Rust (?)
@@ -7249,6 +7430,11 @@ A: Knight, Eric
 T: Neniam plu lundon
 E: W. Auld
 R: B2 1
+
+A: Knight, Eric
+T: Neniam plu lundon
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 174
 
 A: Knight, H. P.
 T: Dio aŭ Mamono?
@@ -7390,7 +7576,7 @@ R: SA 228
 A: Lansdown, Andrew (1954-)
 T: Vekiĝinte kaj ĉiam
 O: Waking and Always
-E: Dolad Broadribb
+E: Donald Broadribb
 R: AŭsA 401
 
 A: Laparra, Raoul
@@ -7539,10 +7725,15 @@ D: SAT
 J: 1972
 P: 271
 
-A: Lee, Laurie
+A: Lee, Laurie (1914-)
 T: La alia sekso
 E: W. Auld
 R: LF 77 43/44 5
+
+A: Lee, Laurie (1914-)
+T: La alia sekso
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 159
 
 A: Lee, Priscilla
 T: Ha!!!
@@ -7937,6 +8128,13 @@ O: Cupid and Campaspe
 E: Eleno Vinfero (L. N. M. Newell)
 R: IL 29 35
 
+A: MacAulay, Donald (= Domhnall MacAmhlaigh) (1930-)
+T: Festa tago
+O: Latha feille
+E: Garbhan MacAoidh
+R: ESk 169 13
+N: gaela
+
 A: MacAulay, Thomas Babington (1800-1859)
 T: Horacio: el la baladoj pri antikva Romo
 E: C. Bicknell
@@ -7989,6 +8187,12 @@ A: McCurdy, E.
 T: Ĉi-nokte sonĝis mi
 E: Anon
 R: BEAK 57
+
+A: MacDermott, Mercia
+T: Apostolo de libereco, Portreto de Vasil Levski sur la fono de Bulgario de la 19a jarcento
+E: Nikola Aleksiev
+J: 1980
+P: 359
 
 A: MacDiarmid, Hugh (= C. M. Grieve) (1892-1978)
 T: Crowdieknowe
@@ -8054,16 +8258,35 @@ E: W. Auld
 R: F 48 5
 
 A: McIlvanney, William
+T: Malgranda Rodezio
+F: Laidlaw (chapter 22)
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 134
+
+A: McIlvanney, William
 T: Zorgoplena patro
 F: Laidlaw (chapter 2)
 E: W. Auld
 R: F 15 17
 
-A: Macintyre, Duncan Ban (= Donnchadh Bàn Mac-an-t-Saoir) (1724-1812)
+A: McIlvanney, William
+T: Zorgoplena patro
+F: Laidlaw (chapter 2)
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 127
+
+A: MacIntyre, Duncan Ban (= Donnchadh Bàn Mac an t-Saoir) (1724-1812)
 T: Kanto pri Kore Keaĥ
 O: Òran Coire a' Cheathaich
 E: Girvan MacKay
 R: ESk 166 14
+N: gaela
+
+A: MacIntyre, Duncan Ban (= Donnchadh Bàn Mac an t-Saoir) (1724-1812)
+T: Somerkanto
+O: Òran an t-Samhraidh
+E: Garbhan MacAoidh
+R: ESk 168 8
 N: gaela
 
 A: MacKellar, Dorothea (1885-1968)
@@ -8110,6 +8333,12 @@ T: Virin' gaela
 O: Ban-ghaidheal
 E: W. Auld
 R: WE 68 2; SA 246
+N: Somhairle MacGill-eain
+
+A: MacLeod, John (= Iain Mac Leòid)
+L: La dolĉa malĝojo
+F: An Bròn Binn
+R: ESk 168 10
 
 A: MacNeice, Louis (1907-1963)
 T: Babelo
@@ -8369,6 +8598,15 @@ T: La okcidento trovas inspiron en la artoj de la oriento
 E: W. Auld
 R: RE 61 42
 
+A: Merriman, Brian
+T: La noktmeza kortumo
+E: Albert Goodheir
+D: Vulpo-Libroj
+U: Lelystad
+J: 1980
+P: 36
+N: el la irlanda
+
 A: Millay, Edna St Vincent (1892-1950)
 T: Soneto
 O: What lips my lips have kissed, and where, and why
@@ -8398,12 +8636,13 @@ O: My ain folk
 E: William Harvey
 R: KE 38
 
-A: Milne, A. A.
+A: Milne, A. A. (1882-1956)
 T: Winnie-La-Pu
 E: Ivy Kellerman Reed & Ralph A. Lewin
 U: Novjorko
 J: 1972
 P: 164
+N: 2-a eldono: Rotterdam: UEA, 1992
 
 A: Milton, John (1608-1674)
 T: Al najtingalo
@@ -8467,13 +8706,7 @@ E: Lehman Wendell
 U: Berlin
 J: 1912
 P: 46
-
-A: Mitchell, J. A.
-T: La lasta usonano
-E: Lehman Wendell
-U: Berlin
-J: 1924
-P: 48
+N: 2-a eldono: Berlin, 1924, 48p
 
 A: Mitchell, J. Leslie (1901-1935)
 T: Spartako
@@ -8483,6 +8716,11 @@ D: Sezonoj
 U: Jekaterinburg
 J: 1993
 P: 220
+
+A: Mitchell, Joni
+T: Ambaŭflanke
+O: Both Sides Now
+R: Sal 96 maj/jun 20
 
 A: Moffett, Cleveland
 T: La karto mistera
@@ -8659,7 +8897,7 @@ R: RE 48 157
 A: Munro, H. H. (1870-1916)
 T: La festa programo: nekronikita epizodo en la Romia historio
 O: The Gala Programme
-E: E. T. Grimley Evans
+E: Edmund Grimley Evans
 R: BE 91 80
 
 A: Munro, H. H. (1870-1916)
@@ -8671,13 +8909,13 @@ S: Kalejdoskopa varieto, 1974, p. 138.
 A: Munro, H. H. (1870-1916)
 T: La malfermita pordo
 O: The Open Window
-E: E. T. Grimley Evans
+E: Edmund Grimley Evans
 R: F 125 9
 
 A: Munro, H. H. (1870-1916)
 T: La malripoz-kuracado
 O: The Unrest-Cure
-E: E. T. Grimley Evans
+E: Edmund Grimley Evans
 R: LKK 54 6
 
 A: Munro, H. H. (1870-1916)
@@ -8705,6 +8943,12 @@ E: W. Auld
 R: ESk 8 3
 
 A: Munro, Neil (1864-1930)
+T: La fantoma ĉevalveturilo
+O: The phantom horse and cart
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 201
+
+A: Munro, Neil (1864-1930)
 T: La perdita pibroĥo
 O: The lost pibroch
 E: David Kennedy
@@ -8721,6 +8965,12 @@ T: Oceana tragedio
 O: An ocean tragedy
 E: W. Auld
 R: NP 68 22; SA 123
+
+A: Munro, Neil (1864-1930)
+T: Oceana tragedio
+O: An ocean tragedy
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 196
 
 A: Munthe, Axel (1857-1949)
 T: Romano de San Michele
@@ -8800,7 +9050,7 @@ E: Meva Maron
 S: La Kromkancerkliniko 7, suplemento al LKK 52, 1989.
 
 A: Nairn(e), Lady/Baroness (1766-1845)
-T: Ĉu ni ree venos vi?
+T: Ĉu ne ree venos vi?
 O: Will ye no' come back again?
 E: A. B. Deans
 R: KE 35
@@ -8873,6 +9123,11 @@ T: Apud la sojlo
 O: Close to the threshold
 E: M. C. Butler
 R: KE 52
+
+A: Neruda, Pablo
+T: La diktatoroj
+E: Ionel Onet
+R: LKK 67 18
 
 A: Newcombe, C. N.
 T: Flustru, kaj aŭdos mi
@@ -8983,6 +9238,12 @@ O: The Sniper
 E: W. Auld
 R: ESk 102 20
 
+A: O'Flaherty, Liam
+T: La tiraljoro
+O: The Sniper
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 155
+
 A: O'Keefe, John (1747-1833)
 T: La lupo
 O: The wolf
@@ -9034,20 +9295,20 @@ O: On a fly drinking from his cup
 E: W. Auld
 R: AA 159
 
-A: Oppenheim, E. Phillips (1866-)
+A: Oppenheim, E. Phillips (1866-1946)
 T: La ora ŝtuparo
 E: La Esperantista Societo de Romford
 D: EPC
 J: 1935
 P: 278
 
-A: Oppenheim, E. Phillips (1866-)
+A: Oppenheim, E. Phillips (1866-1946)
 T: La veto
 L: Riĉa kaj sen mono
 E: Fred Wadham
 R: EI 41 54
 
-A: Oppenheim, E. Phillips (1866-)
+A: Oppenheim, E. Phillips (1866-1946)
 T: Riĉa kaj sen mono
 E: Fred Wadham
 U: Londono
@@ -9357,6 +9618,7 @@ A: Poe, Edgar Allan (1809-1849)
 T: La puto kaj la pendolo
 E: Alex Pride
 U: Parizo
+J: 1907
 P: 23
 
 A: Poe, Edgar Allan (1809-1849)
@@ -9505,6 +9767,12 @@ O: Treatise on metre
 E: W. Auld
 R: ESk 23/24 15; ESk 25 7
 
+A: Pound, Ezra (1885-1972)
+T: Pri metriko
+O: Treatise on metre
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 220
+
 A: Praed, W. M. (1802-1839)
 T: La vizitantoj al infaneco
 E: Fleming Fulcher
@@ -9558,6 +9826,12 @@ T: La konvertiĝo de Kasanovo
 O: Casanova's conversion
 E: W. Auld
 R: NP 70 280
+
+A: Quattrocchi, Angelo
+T: La konvertiĝo de Kasanovo
+O: Casanova's conversion
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 226
 
 A: Quicke, Frank E.
 T: Mia trajno, prave, malprave
@@ -9659,6 +9933,11 @@ O: Lost in France: Jo's requiem
 E: W. Auld
 R: F 82 4
 
+A: Rich, Adrienne
+L: Atlaso de la malfacila mondo
+E: Ionel Onet
+R: LKK 76 25
+
 A: Richardson, Henry Handel (1870-1946)
 L: La fortunoj de Richard Mahoney
 F: The Fortunes of Richard Mahoney
@@ -9674,6 +9953,14 @@ A: Richmond, Charles Alexander
 T: Patro nia
 E: W. M. Page
 R: BE 17 23
+
+A: Riley, D. & L. Spolton
+T: Vetero kaj klimato de la mondo
+E: Kris Long
+D: UEA
+U: Rotterdam
+J: 1987
+P: 132
 
 A: Rizvi, Iftikhar Husain
 T: Kiel fari tion?
@@ -9717,7 +10004,7 @@ T: Maljune naskita
 E: J. J. Pirato
 R: LKK 35 22
 
-A: Roberts, Kate
+A: Roberts, Kate (1891-1985)
 T: La letero
 F: O Gors y Bryniau
 E: Mair Jones
@@ -9763,7 +10050,7 @@ O: The rosary
 E: Mozaiko
 R: KE 75
 
-A: Roosevelt, Eleanor
+A: Roosevelt, Eleanor (1884-1962)
 T: La hom-rajta kunveno
 E: W(illiam) S(olzbacher)
 R: AE 49 sep 138
@@ -9820,7 +10107,7 @@ T: La kuracisto de Kukumjo
 E: Maurico David
 R: BE 06ald 17
 
-A: Ruskin, John
+A: Ruskin, John (1819-1900)
 T: Eŭropo per unu vido
 L: Ŝtonoj de Venezio
 E: H. M. Scott-Moundsville
@@ -9832,6 +10119,7 @@ E: Ivy Kellerman
 U: Berlin
 J: 1911
 P: 41
+N: 2-a eldono: 1926
 
 A: Ruskin, John (1819-1900)
 T: La reĝo de la ora rivero
@@ -9893,18 +10181,24 @@ U: Wellington
 J: 1979
 P: 7
 
-A: Saroyan, William
+A: Saroyan, William (1908-1981)
 T: La barbiro, kies onklon morde senkapigis cirka tigro
 O: The barber whose uncle had his head bitten off by a circus tiger
 E: W. Auld
 R: NP 68 165
 
-A: Saroyan, William
+A: Saroyan, William (1908-1981)
+T: La barbiro, kies onklon morde senkapigis cirka tigro
+O: The barber whose uncle had his head bitten off by a circus tiger
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 164
+
+A: Saroyan, William (1908-1981)
 T: La kampulo
 E: Alfred Harris
 R: LK januaro 1970 1
 
-A: Saroyan, William
+A: Saroyan, William (1908-1981)
 T: La somero de la bela blanka ĉevalo; Lokomotivo 38, la "Ojibway"-ano
 O: The summer of the beautiful white horse; Locomotive 38, the Ojibway
 E: Ŝiger Ujeki
@@ -9913,14 +10207,14 @@ U: Tokio
 J: 1984
 P: 39
 
-A: Sassoon, Siegfried (1886-)
+A: Sassoon, Siegfried (1886-1967)
 T: Deĵoro
 E: A. D. Foote
 R: ESk 122/123 32
 
 A: Saunders, Marshall
 T: Bela Joe
-E: J. Blaikie & N. Hohlov
+E: James Blaikie & Nikolao Hohlov
 U: Londono
 J: 1929
 P: 310
@@ -9960,6 +10254,13 @@ E: Stephen A. Andrew
 U: Londono
 J: 1938
 P: 293
+
+A: Schubin, Ossip
+T: Blanche. La virgulino de Lille
+E: Edward S. Payson
+U: West Newton
+P: 34
+N: el angla traduko de Sarah H. Adams; originalo estis germana
 
 A: Scott, Alexander (1547-1584)
 T: For, kor'
@@ -10061,13 +10362,20 @@ T: La ĉevalo de Hadita
 F: Adventures in Arabia
 R: SK 29 106 74
 
+A: Seattle, Chief
+T: Mesaĝo al civiluloj de la mondo
+O: Message to the modern world
+U: Frankfurt
+J: 1983
+P: 16
+
 A: Sedley, Charles (1639-1701)
 T: Jen, Filiso! mia ĝojo
 O: Phyllis is my only joy
 E: M. C. Butler
 R: KE 19
 
-A: Seeger, P.
+A: Seeger, Pete (1919-)
 T: Kien floroj iris do?
 O: Where have all the flowers gone?
 E: W. Auld
@@ -10495,6 +10803,7 @@ R: ER 13/14 31
 
 A: Shakespeare, William (1564-1616)
 T: Makbeto
+O: Macbeth
 E: D. H. Lambert
 U: Parizo
 J: 1908
@@ -10503,6 +10812,7 @@ P: 123
 A: Shakespeare, William (1564-1616)
 L: Makbeto, Akto 1, Sceno 7
 O: If it were done ...
+F: Macbeth
 E: D. H. Lambert
 R: BE 07 99
 
@@ -10518,6 +10828,7 @@ R: AEJ 6 (1908)
 
 A: Shakespeare, William (1564-1616)
 L: Mezosomera Nokta Sonĝo
+F: A midsummer night's dream
 E: S. Aarse
 R: SR 95 19
 
@@ -10887,6 +11198,7 @@ R: Lit 19 2, 25, 49, 75; Lit 20 98, 122
 
 A: Shakespeare, William (1564-1616)
 T: Sonĝo de someromeza nokto
+O: A midsummer night's dream
 E: Louise Briggs
 U: Londono
 J: 1921
@@ -10894,12 +11206,14 @@ P: 70
 
 A: Shakespeare, William (1564-1616)
 L: Sonĝo de someromeza nokto, Akto 2
+F: A midsummer night's dream
 E: Louise Briggs
 R: IL 25 293
 
 A: Shakespeare, William (1564-1616)
 L: Sonĝo de someromeza nokto
 O: We see the seasons alter ...
+F: A midsummer night's dream
 E: Anon
 R: IL 24 67
 
@@ -11033,7 +11347,7 @@ T: Antaŭ veno de blankul'
 E: E. C. Dodge
 R: AE 42 sep 6
 
-A: Shute, Nevil
+A: Shute, Nevil (1899-1960)
 T: Sur la bordo
 O: On the beach
 E: K. G. Linton
@@ -11041,7 +11355,7 @@ U: Aŭstralio
 J: 1983
 P: 254
 
-A: Shute, Nevil
+A: Shute, Nevil (1899-1960)
 F: Sur la plaĝo
 O: On the beach
 E: Ken Linton
@@ -11322,16 +11636,30 @@ T: La 3-an de decembro, 1854 (Eureka Stockade)
 E: F. R. Banham
 R: SK 31 133 287; SK 31 134 296; SK 31 135 303
 
-A: Spring, Howard
+A: Spring, Howard (1889-1965)
 T: Ne estas kiraso
 F: There is no armour
 E: W. Auld
 R: NP 68 71
 
+A: Spring, Howard (1889-1965)
+T: Ne estas kiraso
+F: There is no armour
+E: W. Auld
+S: Pajleroj kaj stoploj, 1997, p. 149
+
 A: Squire, Sir John
 T: Balado pri soporiga sorbado
 E: M. Boulton
 R: BE 83 268
+
+A: Standing Bear, Ĉefo Luther
+T: Mia indiana knabeco
+E: William Harmon
+D: Bero
+U: Berkeley
+J: 1995
+P: 88
 
 A: Stanley, H. M.
 T: Afrika rakonto
@@ -11784,7 +12112,14 @@ O: My true love hath my heart
 E: J. Francis
 R: AA 53
 
-A: Synge, John M.
+A: Sylva, Carmen
+T: El la plumo de rumana reĝino
+D: Bero
+U: Berkeley
+J: 1996
+P: 36
+
+A: Synge, John M. (1871-1909)
 T: La petolulo de la okcidenta mondo
 O: The playboy of the western world
 E: Albert Goodheir
@@ -11792,23 +12127,23 @@ U: Dublin
 J: 1989
 P: 41
 
-A: Tagore, Rabindranath
+A: Tagore, Rabindranath (1861-1941)
 T: La ĝardenisto kaj la reĝino
 E: K. Kalocsay
 R: EB 274; TS 500
 
-A: Tagore, Rabindranath
+A: Tagore, Rabindranath (1861-1941)
 T: La juna princo
 E: K. Kalocsay
 R: EB 273; TS 499
 
-A: Tagore, Rabindranath
+A: Tagore, Rabindranath (1861-1941)
 T: La plej kara
 F: Hunger Stories
 E: Anon
 R: IL 27 120
 
-A: Tagore, Rabindranath
+A: Tagore, Rabindranath (1861-1941)
 T: La tempo
 E: Anon
 R: IL 27 19
@@ -12205,17 +12540,26 @@ E: Brian McClafferty
 U: Toronto
 J: 1973
 
-A: Thurber, James
+A: Thurber, James (1894-1961)
 T: La 13 horloĝoj
 E: Ralph A. Lewin
 D: Bero
 U: Berkeley
 J: 1993
+P: 42
 
-A: Thurber, James
+A: Thurber, James (1894-1961)
 T: La historio de Muggs
 E: F-ino E. Godfrey
 R: Ron
+
+A: Thurber, James (1894-1961)
+T: La lasta floro
+E: Liland Ros'
+D: Bero
+U: Berkeley
+J: 1996
+P: 31
 
 A: Thurston, E. Temple
 T: La urbo de belega sensencaĵo
@@ -12242,18 +12586,29 @@ O: A&M 49
 E: A. L. Curry
 R: ER 19 30
 
-A: Tolkien, J. R. R.
+A: Tolkien, John Ronald Reuel (1892-1973)
 T: Parto de ĉapitro 12
 L: La hobbito
 F: The Hobbit
 E: Don Harlow
 R: LS2 11-12
 
-A: Tolkien, J. R. R.
+A: Tolkien, John Ronald Reuel (1892-1973)
 T: Poemoj el La Hobito
 F: The Hobbit
 E: W. Auld
 R: F 162 4
+
+A: Tolkien, John Ronald Reuel (1892-1973)
+T: La Kunularo de l' Ringo
+L: La Mastro de l' Ringoj
+O: The fellowship of the ring
+F: The Lord of the Rings
+E: W. Auld
+D: Sezonoj
+U: Jekaterinburg
+J: 1995
+P: 544
 
 A: Treves, Sir Frederick
 T: La dudek-krona monero
@@ -12274,6 +12629,13 @@ D: Kvakera Esperantista Societo
 J: 1965
 P: 14
 N: aŭtoro estis esperantisto; eble tradukita tra la hispana; 18,5 cm
+
+A: Turner, Ethel
+T: Sep junaj aŭstralianoj
+E: Ruth McGrath
+J: 1995
+P: 86
+N: ISBN 0-646-25010-8
 
 A: Turner, W. J. (1889-1946)
 T: La dancistino
@@ -12368,6 +12730,11 @@ T: Pezaj korpoj
 E: M. Boulton
 R: BE 83 246
 
+A: Varela, Maria Elena Cruz
+T: La muro
+E: Ionel Onet
+R: LKK 65 21
+
 A: Varley, John (1947-)
 T: Aerkapero
 E: Karl Pov
@@ -12402,6 +12769,13 @@ E: D. R. Duncan
 D: Daily Mail
 U: Londono
 P: 96
+
+A: Wade, John Francis (ĉ. 1711-1786)
+T: Alestu, fidelaj ...
+O: Oh come, all ye faithful
+L: Himnaro Esperanta
+E: M. C. Butler
+R: IL 26 251
 
 A: Wagnalls, Mabel
 T: La rozujo ĉiumiljara
@@ -12922,6 +13296,11 @@ E: K. Ungar
 R: F 113 4
 
 A: Wordsworth, William (1770-1850)
+T: Dafodiloj
+E: K. Ungar
+S: Meznokto metropola, 1991, p. 68.
+
+A: Wordsworth, William (1770-1850)
 T: Du aprilaj matenoj
 E: Marjorie Boulton
 R: F 4 29
@@ -13091,6 +13470,11 @@ A: Yeats, William Butler (1865-1939)
 T: La kanto de la vaganta Aengus
 E: R. Rossetti & K. Ungar
 R: F 121 29
+
+A: Yeats, William Butler (1865-1939)
+T: La kanto de la vaganta Aengus
+E: R. Rossetti & K. Ungar
+S: Meznokto metropola, 1991, p. 66.
 
 A: Yeats, William Butler (1865-1939)
 T: La mueliloj
